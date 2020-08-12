@@ -4,7 +4,7 @@ module.exports = {
     'Im a software engineer based in India, specializing in building exceptional websites, mobile applications, and everything in between.',
   siteKeywords:
     'Palash Rathore, Palash, Rathore, Palash1999, software engineer, front-end engineer, web developer, javascript, India',
-  siteUrl: '#',
+  siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
