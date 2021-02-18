@@ -51,7 +51,7 @@ module.exports = {
     },
      {
       name: 'Resume',
-      url: 'https://drive.google.com/file/d/1-gEZUBNgsssrGfXMgzx6-2FLQ8w5C6C8/view?usp=sharing',
+      url: '/resume.pdf',
     },
   ],
 
